@@ -1,4 +1,4 @@
-# ![Fluoretto](images/brand/fluoretto_logo_transparent_1x.png)
+# ![Fluoretto](public/brand/fluoretto_logo_transparent_1x.png)
 
 # Serviço de CDN para Ativos Públicos
 
