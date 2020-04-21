@@ -1,10 +1,13 @@
-<svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="12.7253" cy="12.7253" r="12" fill="url(#paint0_angular)"/>
-<defs>
-<radialGradient id="paint0_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(12.7253 12.7253) rotate(90) scale(12)">
-<stop stop-color="#0600FF"/>
-<stop offset="0.5" stop-color="#FF0089"/>
-<stop offset="1" stop-color="#F9DA00"/>
-</radialGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <clipPath id="_clip1">
+        <circle cx="12" cy="12" r="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <use xlink:href="#_Image2" x="0" y="0" width="24px" height="24px"/>
+    </g>
+    <defs>
+        <image id="_Image2" width="24px" height="24px" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAYABgDAREAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYHBP/EACkQAAADBQUJAAAAAAAAAAAAAAABEQIDBAUhBxITFjEIFSIjJKGipeP/xAAYAQEBAQEBAAAAAAAAAAAAAAAGBwQIBf/EAC4RAAAFAgEICwAAAAAAAAAAAAABAwQRBSECBgcSEyIjMaEIFBUWUYKio8Hh4//aAAwDAQACEQMRAD8Ay1+6NNBUUFykdCumpwB4/gVQoYbfACapu5kDP3pLqFKCBwBTp0UjTWZe08oggZ1Ik7jpJTAiZXCEusxzGuJO92Jp0uNe82U7jE4zr93uDTX+fQj0Y55CbZXU3X6PV8UeNp+SCLOzmy8rnj1X2GI+k6aduyff/ETdTJ5Yzury+x0QUKV4qDxHTo4F+WWsKyR8lEoA1V3syDrzbFZBRR3SqBDpqUg8siP/2Q=="/>
+    </defs>
 </svg>
